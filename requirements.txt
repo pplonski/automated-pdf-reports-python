@@ -1,3 +1,3 @@
-mljar-mercury
+mljar-mercury>=1.0.1
 yfinance
 mplfinance
